@@ -25,7 +25,7 @@ Features of the Project 🔌
     This feature would allow users to register themselves on the web application. 
     Users must register themselves on the application if they wish to book vehicles.
 
-  Vehicle Booking ➡️
+  Vehicle Booking 🛑
 
     This feature would allow users to book vehicles according to their requirements.
   
