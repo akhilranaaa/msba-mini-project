@@ -88,4 +88,4 @@ hirewheels/api/v1/admin/vehicles/4
 
 <img width="1351" alt="screenshot" src="https://github.com/SwaggyXO/HireWheels/assets/76209941/60bead90-1b28-4006-bab9-25b37e8977de">
 
-Thanks for reading ➡️
+Thanks for reading 🛑
