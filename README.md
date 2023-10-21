@@ -4,7 +4,7 @@ Simple monolithic Backend API for a car rental application developed in Spring B
 
 Features of the Project 🔌
 
-  Types of users 👩‍🦲
+  Types of users ➡️
     
     Each user registered on the application can have either of the following two roles:
 
@@ -16,33 +16,33 @@ Features of the Project 🔌
         Admins can add new vehicles to the application.
         Admins can change the availability of registered vehicles.
 
-  Login 👨‍🦲
+  Login ➡️
 
     This feature would allow users to log in to the application to continue ahead with vehicle booking.
   
-  Signup 👨‍🦲
+  Signup ➡️
 
     This feature would allow users to register themselves on the web application. 
     Users must register themselves on the application if they wish to book vehicles.
 
-  Vehicle Booking 🏎️
+  Vehicle Booking ➡️
 
     This feature would allow users to book vehicles according to their requirements.
   
-  Vehicle Registration 🏎️
+  Vehicle Registration ➡️
 
     This feature would allow users with the ‘ADMIN’ role to add vehicles to the portal.
     While registering vehicles, the Admin maps each vehicle to a location. 
     This means that a particular vehicle will only be available for a pickup location.
   
-Change Vehicle Availability 🏎️
+Change Vehicle Availability 
 
     This feature would allow users with the ‘ADMIN’ role to change the availability of vehicles.
     For example, the Admin can make a registered vehicle unavailable for booking.
     
-Note: Not all features are implemented yet 😁
+Note: Not all features are implemented yet 
 
-Project setup
+Project setup ➡️
 
 To run this project and test it locally:
 
@@ -58,7 +58,7 @@ To run this project and test it locally:
       The application should be running on port 8085. You can change it if you like.
 
 
-Endpoints
+Endpoints 
 
 Currently, the following endpoints are functional
 
@@ -88,4 +88,4 @@ hirewheels/api/v1/admin/vehicles/4
 
 <img width="1351" alt="screenshot" src="https://github.com/SwaggyXO/HireWheels/assets/76209941/60bead90-1b28-4006-bab9-25b37e8977de">
 
-Thanks for reading ❤️
+Thanks for reading ➡️
